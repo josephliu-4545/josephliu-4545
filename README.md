@@ -2,6 +2,13 @@
 I’m Joseph Liu (Aung Myint Myat), a full-stack developer and final-year Computer System Engineering student in Yangon, Myanmar.<br><br>At Teacher Elice Korean Class, I build APIs with TypeScript and Cloudflare Workers, manage access controls in PostgreSQL, and develop Android and iOS features with Flutter. I also built a Windows Secure Player with C# and WPF.<br><br>I help organize the GUSTO College Coding Club and handle backend development and hosting for campus events.
 
 
+## Selected projects
+
+- **[EarthLens](https://github.com/josephliu-4545/code-me-to-the-moon---ETSD)** — Led a four-person NASA Space Apps team and built the FastAPI backend for exploring satellite and climate trends. [Live app](https://earthlens.psphyo.xyz)
+- **[Smart IoT Health Ecosystem](https://github.com/josephliu-4545/IOT_control_app)** — Built the Flutter dashboard and Express backend for live sensor readings, remote device commands, and camera image analysis.
+- **[Ta Chat Nhate](https://github.com/josephliu-4545/Pyin_Mal_App)** — Led the team and built most of the Flutter virtual try-on app. Placed 3rd out of about 20 teams at GUSTO College Innovation 2026.
+- **[IoT Vote](https://github.com/josephliu-4545/IOT-voting-website)** — Identified a repeat-voting loophole in the rotating QR flow and proposed a browser-side check. Built with the GUSTO College Coding Club.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1G5weYJqjC/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Joseph_Liu4545) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aung-myint-myat-717058415/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.facebook.com/share/1G5weYJqjC/?mibextid=wwXIfr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCO0Q9q-PNS6LaCwDq3EvVWA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aungmyintmyat790171449@gmail.com) 
 
